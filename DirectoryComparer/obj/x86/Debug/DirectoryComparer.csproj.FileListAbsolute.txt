@@ -1,0 +1,13 @@
+C:\Users\varma\Desktop\DirectoryComparer\DirectoryComparer\bin\Debug\Directory Comparer.exe
+C:\Users\varma\Desktop\DirectoryComparer\DirectoryComparer\bin\Debug\Directory Comparer.pdb
+C:\Users\varma\Desktop\DirectoryComparer\DirectoryComparer\obj\x86\Debug\DirectoryComparer.DirectoryComparerIcons.resources
+C:\Users\varma\Desktop\DirectoryComparer\DirectoryComparer\obj\x86\Debug\DirectoryComparer.frmCompareResults.resources
+C:\Users\varma\Desktop\DirectoryComparer\DirectoryComparer\obj\x86\Debug\DirectoryComparer.frmMain.resources
+C:\Users\varma\Desktop\DirectoryComparer\DirectoryComparer\obj\x86\Debug\DirectoryComparer.frmPreferences.resources
+C:\Users\varma\Desktop\DirectoryComparer\DirectoryComparer\obj\x86\Debug\DirectoryComparer.Properties.Resources.resources
+C:\Users\varma\Desktop\DirectoryComparer\DirectoryComparer\obj\x86\Debug\DirectoryComparer.csproj.GenerateResource.Cache
+C:\Users\varma\Desktop\DirectoryComparer\DirectoryComparer\obj\x86\Debug\Directory Comparer.exe
+C:\Users\varma\Desktop\DirectoryComparer\DirectoryComparer\obj\x86\Debug\Directory Comparer.pdb
+C:\Users\varma\Desktop\DirectoryComparer\DirectoryComparer\obj\x86\Debug\DirectoryComparer.csprojResolveAssemblyReference.cache
+C:\Users\varma\Desktop\DirectoryComparer\DirectoryComparer\obj\x86\Debug\DirectoryComparer.frmAbout.resources
+C:\Users\varma\Desktop\DirectoryComparer\DirectoryComparer\obj\x86\Debug\DirectoryComparer.Resources.TextConstants.resources
